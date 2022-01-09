@@ -52,6 +52,8 @@ Simple React components mostly without CSS. **[React Components](https://github.
 <br/>
 Joke webpage using API, React Redux. **[Joke API](https://github.com/trubacsedgars/Homework-32)**
 <br/>
+Simple Todo App, made on React. **[Todo App](https://github.com/trubacsedgars/React-Todo-App)**
+<br/>
 
 ⛔️ Most of the projects, due to privacy settings, are private. Would you mind letting me know if you want to see some more projects?
 
